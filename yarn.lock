@@ -290,6 +290,11 @@
   resolved "https://registry.yarnpkg.com/@editorjs/editorjs/-/editorjs-2.12.4.tgz#3a98c907c0c0ff96bd667e5dd45e109ceb4d6a1a"
   integrity sha512-5xevUVL+OvrhnVjaQARW7FlTtJhYPaUbs3Bft6+2PQ7Fvx5SquyrPPJomCdQA7+5uPAWQ8MtjxTVvSDPhujkYw==
 
+"@fortawesome/fontawesome-free@^5.8.1":
+  version "5.8.1"
+  resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-free/-/fontawesome-free-5.8.1.tgz#cbafbfe8894c4e3e3c3a9da6774e249ac1f2da8b"
+  integrity sha512-GJtx6e55qLEOy2gPOsok2lohjpdWNGrYGtQx0FFT/++K4SYx+Z8LlPHdQBaFzKEwH5IbBB4fNgb//uyZjgYXoA==
+
 "@ngtools/webpack@7.3.8":
   version "7.3.8"
   resolved "https://registry.yarnpkg.com/@ngtools/webpack/-/webpack-7.3.8.tgz#c8761d0f6959682e03032f8d3de718d1f811410e"
